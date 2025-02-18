@@ -1,0 +1,2562 @@
+[2025-02-18 07:44:56] Callback başladı
+[2025-02-18 07:44:56] Request: Array
+(
+    [oauth_token] => eOe--AAAAAABzTLrAAABlRfNUAw
+    [oauth_verifier] => 5RkxDKZBWzxFpRVUQBH3zrdt2XiagRwb
+)
+
+[2025-02-18 07:44:56] Session: Array
+(
+    [oauth_token] => eOe--AAAAAABzTLrAAABlRfNUAw
+    [oauth_token_secret] => 89LcpIF9zsbPCrA52DDohIcC5w7Yth3P
+    [access_token] => Array
+        (
+            [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+            [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+            [user_id] => 1869404592729214976
+            [screen_name] => MagicPengu
+        )
+
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 07:44:56] OAuth token ve verifier mevcut
+[2025-02-18 07:44:56] Request token: Array
+(
+    [oauth_token] => eOe--AAAAAABzTLrAAABlRfNUAw
+    [oauth_token_secret] => 89LcpIF9zsbPCrA52DDohIcC5w7Yth3P
+)
+
+[2025-02-18 07:44:56] Access token alınıyor...
+[2025-02-18 07:44:57] Access token alındı: Array
+(
+    [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+    [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+    [user_id] => 1869404592729214976
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 07:44:57] Kullanıcı veritabanına kaydedildi
+[2025-02-18 07:44:57] Final session: Array
+(
+    [oauth_token] => eOe--AAAAAABzTLrAAABlRfNUAw
+    [oauth_token_secret] => 89LcpIF9zsbPCrA52DDohIcC5w7Yth3P
+    [access_token] => Array
+        (
+            [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+            [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+            [user_id] => 1869404592729214976
+            [screen_name] => MagicPengu
+        )
+
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 07:44:57] Callback tamamlandı - başarılı
+[2025-02-18 07:44:57] User endpoint başladı
+[2025-02-18 07:44:57] Session durumu: Array
+(
+    [oauth_token] => eOe--AAAAAABzTLrAAABlRfNUAw
+    [oauth_token_secret] => 89LcpIF9zsbPCrA52DDohIcC5w7Yth3P
+    [access_token] => Array
+        (
+            [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+            [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+            [user_id] => 1869404592729214976
+            [screen_name] => MagicPengu
+        )
+
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 07:44:57] Access token bulundu: Array
+(
+    [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+    [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+    [user_id] => 1869404592729214976
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 07:46:01] User endpoint başladı
+[2025-02-18 07:46:01] Session durumu: Array
+(
+    [oauth_token] => eOe--AAAAAABzTLrAAABlRfNUAw
+    [oauth_token_secret] => 89LcpIF9zsbPCrA52DDohIcC5w7Yth3P
+    [access_token] => Array
+        (
+            [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+            [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+            [user_id] => 1869404592729214976
+            [screen_name] => MagicPengu
+        )
+
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 07:46:01] Access token bulundu: Array
+(
+    [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+    [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+    [user_id] => 1869404592729214976
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 07:46:01] User endpoint başladı
+[2025-02-18 07:46:01] Session durumu: Array
+(
+    [oauth_token] => eOe--AAAAAABzTLrAAABlRfNUAw
+    [oauth_token_secret] => 89LcpIF9zsbPCrA52DDohIcC5w7Yth3P
+    [access_token] => Array
+        (
+            [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+            [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+            [user_id] => 1869404592729214976
+            [screen_name] => MagicPengu
+        )
+
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 07:46:01] Access token bulundu: Array
+(
+    [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+    [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+    [user_id] => 1869404592729214976
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 07:46:03] Twitter auth başlatılıyor...
+[2025-02-18 07:46:03] Session öncesi: Array
+(
+    [oauth_token] => eOe--AAAAAABzTLrAAABlRfNUAw
+    [oauth_token_secret] => 89LcpIF9zsbPCrA52DDohIcC5w7Yth3P
+    [access_token] => Array
+        (
+            [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+            [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+            [user_id] => 1869404592729214976
+            [screen_name] => MagicPengu
+        )
+
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 07:46:03] OAuth nesnesi oluşturuldu
+[2025-02-18 07:46:04] Request token alındı: Array
+(
+    [oauth_token] => LKV12AAAAAABzTLrAAABlRfOgJk
+    [oauth_token_secret] => xNK87m7rKpFSAycLOStIA2gg8EKLNvdy
+    [oauth_callback_confirmed] => true
+)
+
+[2025-02-18 07:46:04] Session güncellendi: Array
+(
+    [oauth_token] => LKV12AAAAAABzTLrAAABlRfOgJk
+    [oauth_token_secret] => xNK87m7rKpFSAycLOStIA2gg8EKLNvdy
+    [access_token] => Array
+        (
+            [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+            [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+            [user_id] => 1869404592729214976
+            [screen_name] => MagicPengu
+        )
+
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 07:46:04] Auth URL oluşturuldu: https://api.twitter.com/oauth/authorize?oauth_token=LKV12AAAAAABzTLrAAABlRfOgJk
+[2025-02-18 07:46:08] Callback başladı
+[2025-02-18 07:46:08] Request: Array
+(
+    [oauth_token] => LKV12AAAAAABzTLrAAABlRfOgJk
+    [oauth_verifier] => RxSVEgCW7ZfEEOlejDOVOc4nenTwpB3F
+)
+
+[2025-02-18 07:46:08] Session: Array
+(
+    [oauth_token] => LKV12AAAAAABzTLrAAABlRfOgJk
+    [oauth_token_secret] => xNK87m7rKpFSAycLOStIA2gg8EKLNvdy
+    [access_token] => Array
+        (
+            [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+            [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+            [user_id] => 1869404592729214976
+            [screen_name] => MagicPengu
+        )
+
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 07:46:08] OAuth token ve verifier mevcut
+[2025-02-18 07:46:08] Request token: Array
+(
+    [oauth_token] => LKV12AAAAAABzTLrAAABlRfOgJk
+    [oauth_token_secret] => xNK87m7rKpFSAycLOStIA2gg8EKLNvdy
+)
+
+[2025-02-18 07:46:08] Access token alınıyor...
+[2025-02-18 07:46:09] Access token alındı: Array
+(
+    [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+    [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+    [user_id] => 1869404592729214976
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 07:46:09] Kullanıcı veritabanına kaydedildi
+[2025-02-18 07:46:09] Final session: Array
+(
+    [oauth_token] => LKV12AAAAAABzTLrAAABlRfOgJk
+    [oauth_token_secret] => xNK87m7rKpFSAycLOStIA2gg8EKLNvdy
+    [access_token] => Array
+        (
+            [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+            [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+            [user_id] => 1869404592729214976
+            [screen_name] => MagicPengu
+        )
+
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 07:46:09] Callback tamamlandı - başarılı
+[2025-02-18 07:46:10] User endpoint başladı
+[2025-02-18 07:46:10] Session durumu: Array
+(
+    [oauth_token] => LKV12AAAAAABzTLrAAABlRfOgJk
+    [oauth_token_secret] => xNK87m7rKpFSAycLOStIA2gg8EKLNvdy
+    [access_token] => Array
+        (
+            [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+            [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+            [user_id] => 1869404592729214976
+            [screen_name] => MagicPengu
+        )
+
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 07:46:10] Access token bulundu: Array
+(
+    [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+    [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+    [user_id] => 1869404592729214976
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 07:48:45] Request origin: 
+[2025-02-18 07:48:45] Twitter auth başlatılıyor...
+[2025-02-18 07:48:45] Session öncesi: Array
+(
+    [oauth_token] => LKV12AAAAAABzTLrAAABlRfOgJk
+    [oauth_token_secret] => xNK87m7rKpFSAycLOStIA2gg8EKLNvdy
+    [access_token] => Array
+        (
+            [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+            [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+            [user_id] => 1869404592729214976
+            [screen_name] => MagicPengu
+        )
+
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 07:48:45] OAuth nesnesi oluşturuldu
+[2025-02-18 07:48:46] Request token alındı: Array
+(
+    [oauth_token] => pbjyVwAAAAABzTLrAAABlRfQ-JI
+    [oauth_token_secret] => UB1OcGZQAj5ScLB08jzaWJz8Kt4a1nrp
+    [oauth_callback_confirmed] => true
+)
+
+[2025-02-18 07:48:46] Session güncellendi: Array
+(
+    [oauth_token] => pbjyVwAAAAABzTLrAAABlRfQ-JI
+    [oauth_token_secret] => UB1OcGZQAj5ScLB08jzaWJz8Kt4a1nrp
+    [access_token] => Array
+        (
+            [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+            [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+            [user_id] => 1869404592729214976
+            [screen_name] => MagicPengu
+        )
+
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 07:48:46] Auth URL oluşturuldu: https://api.twitter.com/oauth/authorize?oauth_token=pbjyVwAAAAABzTLrAAABlRfQ-JI
+[2025-02-18 07:48:49] Request origin: 
+[2025-02-18 07:48:49] Callback başladı
+[2025-02-18 07:48:49] Request: Array
+(
+    [oauth_token] => pbjyVwAAAAABzTLrAAABlRfQ-JI
+    [oauth_verifier] => N2iGIfHT30xPpOe1mvuqq9ir2PETZxwj
+)
+
+[2025-02-18 07:48:49] Session: Array
+(
+    [oauth_token] => pbjyVwAAAAABzTLrAAABlRfQ-JI
+    [oauth_token_secret] => UB1OcGZQAj5ScLB08jzaWJz8Kt4a1nrp
+    [access_token] => Array
+        (
+            [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+            [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+            [user_id] => 1869404592729214976
+            [screen_name] => MagicPengu
+        )
+
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 07:48:49] OAuth token ve verifier mevcut
+[2025-02-18 07:48:49] Request token: Array
+(
+    [oauth_token] => pbjyVwAAAAABzTLrAAABlRfQ-JI
+    [oauth_token_secret] => UB1OcGZQAj5ScLB08jzaWJz8Kt4a1nrp
+)
+
+[2025-02-18 07:48:49] Access token alınıyor...
+[2025-02-18 07:48:51] Access token alındı: Array
+(
+    [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+    [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+    [user_id] => 1869404592729214976
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 07:48:51] Kullanıcı veritabanına kaydedildi
+[2025-02-18 07:48:51] Final session: Array
+(
+    [oauth_token] => pbjyVwAAAAABzTLrAAABlRfQ-JI
+    [oauth_token_secret] => UB1OcGZQAj5ScLB08jzaWJz8Kt4a1nrp
+    [access_token] => Array
+        (
+            [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+            [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+            [user_id] => 1869404592729214976
+            [screen_name] => MagicPengu
+        )
+
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 07:48:51] Callback tamamlandı - başarılı
+[2025-02-18 07:50:34] Request origin: 
+[2025-02-18 07:50:34] Twitter auth başlatılıyor...
+[2025-02-18 07:50:34] Session öncesi: Array
+(
+    [oauth_token] => pbjyVwAAAAABzTLrAAABlRfQ-JI
+    [oauth_token_secret] => UB1OcGZQAj5ScLB08jzaWJz8Kt4a1nrp
+    [access_token] => Array
+        (
+            [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+            [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+            [user_id] => 1869404592729214976
+            [screen_name] => MagicPengu
+        )
+
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 07:50:34] OAuth nesnesi oluşturuldu
+[2025-02-18 07:50:35] Request token alındı: Array
+(
+    [oauth_token] => 6Jm2zgAAAAABzTLrAAABlRfSpBc
+    [oauth_token_secret] => PcgoOKUML2hZom3bYvsroIkAt7HNVbXa
+    [oauth_callback_confirmed] => true
+)
+
+[2025-02-18 07:50:35] Session güncellendi: Array
+(
+    [oauth_token] => 6Jm2zgAAAAABzTLrAAABlRfSpBc
+    [oauth_token_secret] => PcgoOKUML2hZom3bYvsroIkAt7HNVbXa
+    [access_token] => Array
+        (
+            [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+            [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+            [user_id] => 1869404592729214976
+            [screen_name] => MagicPengu
+        )
+
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 07:50:35] Auth URL oluşturuldu: https://api.twitter.com/oauth/authorize?oauth_token=6Jm2zgAAAAABzTLrAAABlRfSpBc
+[2025-02-18 07:50:39] Request origin: 
+[2025-02-18 07:50:39] Callback başladı
+[2025-02-18 07:50:39] Request: Array
+(
+    [oauth_token] => 6Jm2zgAAAAABzTLrAAABlRfSpBc
+    [oauth_verifier] => 8qX3Yph4YeKyMy6GzJuaIZ2yV4i1sDXa
+)
+
+[2025-02-18 07:50:39] Session: Array
+(
+    [oauth_token] => 6Jm2zgAAAAABzTLrAAABlRfSpBc
+    [oauth_token_secret] => PcgoOKUML2hZom3bYvsroIkAt7HNVbXa
+    [access_token] => Array
+        (
+            [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+            [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+            [user_id] => 1869404592729214976
+            [screen_name] => MagicPengu
+        )
+
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 07:50:39] OAuth token ve verifier mevcut
+[2025-02-18 07:50:39] Request token: Array
+(
+    [oauth_token] => 6Jm2zgAAAAABzTLrAAABlRfSpBc
+    [oauth_token_secret] => PcgoOKUML2hZom3bYvsroIkAt7HNVbXa
+)
+
+[2025-02-18 07:50:39] Access token alınıyor...
+[2025-02-18 07:50:40] Access token alındı: Array
+(
+    [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+    [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+    [user_id] => 1869404592729214976
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 07:50:40] Kullanıcı veritabanına kaydedildi
+[2025-02-18 07:50:40] Final session: Array
+(
+    [oauth_token] => 6Jm2zgAAAAABzTLrAAABlRfSpBc
+    [oauth_token_secret] => PcgoOKUML2hZom3bYvsroIkAt7HNVbXa
+    [access_token] => Array
+        (
+            [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+            [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+            [user_id] => 1869404592729214976
+            [screen_name] => MagicPengu
+        )
+
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 07:50:40] Callback tamamlandı - başarılı
+[2025-02-18 07:51:03] Request origin: 
+[2025-02-18 07:51:03] Twitter auth başlatılıyor...
+[2025-02-18 07:51:03] Session öncesi: Array
+(
+    [oauth_token] => 6Jm2zgAAAAABzTLrAAABlRfSpBc
+    [oauth_token_secret] => PcgoOKUML2hZom3bYvsroIkAt7HNVbXa
+    [access_token] => Array
+        (
+            [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+            [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+            [user_id] => 1869404592729214976
+            [screen_name] => MagicPengu
+        )
+
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 07:51:03] OAuth nesnesi oluşturuldu
+[2025-02-18 07:51:04] Request token alındı: Array
+(
+    [oauth_token] => tK6XswAAAAABzTLrAAABlRfTFYk
+    [oauth_token_secret] => RoxvoUx6eLM8RFm18gq4QfZaGiQN4JLl
+    [oauth_callback_confirmed] => true
+)
+
+[2025-02-18 07:51:04] Session güncellendi: Array
+(
+    [oauth_token] => tK6XswAAAAABzTLrAAABlRfTFYk
+    [oauth_token_secret] => RoxvoUx6eLM8RFm18gq4QfZaGiQN4JLl
+    [access_token] => Array
+        (
+            [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+            [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+            [user_id] => 1869404592729214976
+            [screen_name] => MagicPengu
+        )
+
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 07:51:04] Auth URL oluşturuldu: https://api.twitter.com/oauth/authorize?oauth_token=tK6XswAAAAABzTLrAAABlRfTFYk
+[2025-02-18 07:51:11] Request origin: 
+[2025-02-18 07:51:11] Callback başladı
+[2025-02-18 07:51:11] Request: Array
+(
+    [oauth_token] => tK6XswAAAAABzTLrAAABlRfTFYk
+    [oauth_verifier] => 6wlZzW04RsmgnSJbydxhmWhUEzQYFhbv
+)
+
+[2025-02-18 07:51:11] Session: Array
+(
+    [oauth_token] => tK6XswAAAAABzTLrAAABlRfTFYk
+    [oauth_token_secret] => RoxvoUx6eLM8RFm18gq4QfZaGiQN4JLl
+    [access_token] => Array
+        (
+            [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+            [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+            [user_id] => 1869404592729214976
+            [screen_name] => MagicPengu
+        )
+
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 07:51:11] OAuth token ve verifier mevcut
+[2025-02-18 07:51:11] Request token: Array
+(
+    [oauth_token] => tK6XswAAAAABzTLrAAABlRfTFYk
+    [oauth_token_secret] => RoxvoUx6eLM8RFm18gq4QfZaGiQN4JLl
+)
+
+[2025-02-18 07:51:11] Access token alınıyor...
+[2025-02-18 07:51:12] Access token alındı: Array
+(
+    [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+    [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+    [user_id] => 1869404592729214976
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 07:51:12] Kullanıcı veritabanına kaydedildi
+[2025-02-18 07:51:12] Final session: Array
+(
+    [oauth_token] => tK6XswAAAAABzTLrAAABlRfTFYk
+    [oauth_token_secret] => RoxvoUx6eLM8RFm18gq4QfZaGiQN4JLl
+    [access_token] => Array
+        (
+            [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+            [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+            [user_id] => 1869404592729214976
+            [screen_name] => MagicPengu
+        )
+
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 07:51:12] Callback tamamlandı - başarılı
+[2025-02-18 07:52:47] Request origin: 
+[2025-02-18 07:52:47] Twitter auth başlatılıyor...
+[2025-02-18 07:52:47] Session öncesi: Array
+(
+    [oauth_token] => tK6XswAAAAABzTLrAAABlRfTFYk
+    [oauth_token_secret] => RoxvoUx6eLM8RFm18gq4QfZaGiQN4JLl
+    [access_token] => Array
+        (
+            [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+            [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+            [user_id] => 1869404592729214976
+            [screen_name] => MagicPengu
+        )
+
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 07:52:47] OAuth nesnesi oluşturuldu
+[2025-02-18 07:52:48] Request token alındı: Array
+(
+    [oauth_token] => WZ9LqAAAAAABzTLrAAABlRfUqR8
+    [oauth_token_secret] => 4oMYtXxkLr4DafKkJkdPakgGOeU3jBA7
+    [oauth_callback_confirmed] => true
+)
+
+[2025-02-18 07:52:48] Session güncellendi: Array
+(
+    [oauth_token] => WZ9LqAAAAAABzTLrAAABlRfUqR8
+    [oauth_token_secret] => 4oMYtXxkLr4DafKkJkdPakgGOeU3jBA7
+    [access_token] => Array
+        (
+            [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+            [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+            [user_id] => 1869404592729214976
+            [screen_name] => MagicPengu
+        )
+
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 07:52:48] Auth URL oluşturuldu: https://api.twitter.com/oauth/authorize?oauth_token=WZ9LqAAAAAABzTLrAAABlRfUqR8
+[2025-02-18 07:52:51] Request origin: 
+[2025-02-18 07:52:51] Callback başladı
+[2025-02-18 07:52:51] Request: Array
+(
+    [oauth_token] => WZ9LqAAAAAABzTLrAAABlRfUqR8
+    [oauth_verifier] => 1Z9mxF3EXKyFFClkfTL7rFye6w3h0VCF
+)
+
+[2025-02-18 07:52:51] Session: Array
+(
+    [oauth_token] => WZ9LqAAAAAABzTLrAAABlRfUqR8
+    [oauth_token_secret] => 4oMYtXxkLr4DafKkJkdPakgGOeU3jBA7
+    [access_token] => Array
+        (
+            [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+            [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+            [user_id] => 1869404592729214976
+            [screen_name] => MagicPengu
+        )
+
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 07:52:51] OAuth token ve verifier mevcut
+[2025-02-18 07:52:51] Request token: Array
+(
+    [oauth_token] => WZ9LqAAAAAABzTLrAAABlRfUqR8
+    [oauth_token_secret] => 4oMYtXxkLr4DafKkJkdPakgGOeU3jBA7
+)
+
+[2025-02-18 07:52:51] Access token alınıyor...
+[2025-02-18 07:52:52] Access token alındı: Array
+(
+    [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+    [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+    [user_id] => 1869404592729214976
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 07:52:52] Kullanıcı veritabanına kaydedildi
+[2025-02-18 07:52:52] Final session: Array
+(
+    [oauth_token] => WZ9LqAAAAAABzTLrAAABlRfUqR8
+    [oauth_token_secret] => 4oMYtXxkLr4DafKkJkdPakgGOeU3jBA7
+    [access_token] => Array
+        (
+            [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+            [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+            [user_id] => 1869404592729214976
+            [screen_name] => MagicPengu
+        )
+
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 07:52:52] Callback tamamlandı - başarılı
+[2025-02-18 07:53:50] Request origin: http://bullfnf.xyz
+[2025-02-18 07:53:50] User endpoint başladı
+[2025-02-18 07:53:50] Session durumu: Array
+(
+    [oauth_token] => WZ9LqAAAAAABzTLrAAABlRfUqR8
+    [oauth_token_secret] => 4oMYtXxkLr4DafKkJkdPakgGOeU3jBA7
+    [access_token] => Array
+        (
+            [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+            [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+            [user_id] => 1869404592729214976
+            [screen_name] => MagicPengu
+        )
+
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 07:53:50] Access token bulundu: Array
+(
+    [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+    [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+    [user_id] => 1869404592729214976
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 07:53:50] Request origin: http://bullfnf.xyz
+[2025-02-18 07:53:50] User endpoint başladı
+[2025-02-18 07:53:50] Session durumu: Array
+(
+    [oauth_token] => WZ9LqAAAAAABzTLrAAABlRfUqR8
+    [oauth_token_secret] => 4oMYtXxkLr4DafKkJkdPakgGOeU3jBA7
+    [access_token] => Array
+        (
+            [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+            [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+            [user_id] => 1869404592729214976
+            [screen_name] => MagicPengu
+        )
+
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 07:53:50] Access token bulundu: Array
+(
+    [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+    [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+    [user_id] => 1869404592729214976
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 07:53:51] Request origin: 
+[2025-02-18 07:53:51] Twitter auth başlatılıyor...
+[2025-02-18 07:53:51] Session öncesi: Array
+(
+    [oauth_token] => WZ9LqAAAAAABzTLrAAABlRfUqR8
+    [oauth_token_secret] => 4oMYtXxkLr4DafKkJkdPakgGOeU3jBA7
+    [access_token] => Array
+        (
+            [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+            [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+            [user_id] => 1869404592729214976
+            [screen_name] => MagicPengu
+        )
+
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 07:53:51] OAuth nesnesi oluşturuldu
+[2025-02-18 07:53:52] Request token alındı: Array
+(
+    [oauth_token] => LeYgaAAAAAABzTLrAAABlRfVpO4
+    [oauth_token_secret] => w8ywnSz9zgO6y68rDNYUBmeJsyKiJDJz
+    [oauth_callback_confirmed] => true
+)
+
+[2025-02-18 07:53:52] Session güncellendi: Array
+(
+    [oauth_token] => LeYgaAAAAAABzTLrAAABlRfVpO4
+    [oauth_token_secret] => w8ywnSz9zgO6y68rDNYUBmeJsyKiJDJz
+    [access_token] => Array
+        (
+            [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+            [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+            [user_id] => 1869404592729214976
+            [screen_name] => MagicPengu
+        )
+
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 07:53:52] Auth URL oluşturuldu: https://api.twitter.com/oauth/authorize?oauth_token=LeYgaAAAAAABzTLrAAABlRfVpO4
+[2025-02-18 07:54:04] Request origin: 
+[2025-02-18 07:54:04] Callback başladı
+[2025-02-18 07:54:04] Request: Array
+(
+    [oauth_token] => LeYgaAAAAAABzTLrAAABlRfVpO4
+    [oauth_verifier] => TlaixC6s8fgZ5X9Lu6NiqKCKnqiyvazU
+)
+
+[2025-02-18 07:54:04] Session: Array
+(
+    [oauth_token] => LeYgaAAAAAABzTLrAAABlRfVpO4
+    [oauth_token_secret] => w8ywnSz9zgO6y68rDNYUBmeJsyKiJDJz
+    [access_token] => Array
+        (
+            [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+            [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+            [user_id] => 1869404592729214976
+            [screen_name] => MagicPengu
+        )
+
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 07:54:04] OAuth token ve verifier mevcut
+[2025-02-18 07:54:04] Request token: Array
+(
+    [oauth_token] => LeYgaAAAAAABzTLrAAABlRfVpO4
+    [oauth_token_secret] => w8ywnSz9zgO6y68rDNYUBmeJsyKiJDJz
+)
+
+[2025-02-18 07:54:04] Access token alınıyor...
+[2025-02-18 07:54:05] Access token alındı: Array
+(
+    [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+    [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+    [user_id] => 1869404592729214976
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 07:54:05] Kullanıcı veritabanına kaydedildi
+[2025-02-18 07:54:05] Final session: Array
+(
+    [oauth_token] => LeYgaAAAAAABzTLrAAABlRfVpO4
+    [oauth_token_secret] => w8ywnSz9zgO6y68rDNYUBmeJsyKiJDJz
+    [access_token] => Array
+        (
+            [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+            [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+            [user_id] => 1869404592729214976
+            [screen_name] => MagicPengu
+        )
+
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 07:54:05] Callback tamamlandı - başarılı
+[2025-02-18 07:54:05] Request origin: http://bullfnf.xyz
+[2025-02-18 07:54:05] User endpoint başladı
+[2025-02-18 07:54:05] Session durumu: Array
+(
+    [oauth_token] => LeYgaAAAAAABzTLrAAABlRfVpO4
+    [oauth_token_secret] => w8ywnSz9zgO6y68rDNYUBmeJsyKiJDJz
+    [access_token] => Array
+        (
+            [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+            [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+            [user_id] => 1869404592729214976
+            [screen_name] => MagicPengu
+        )
+
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 07:54:05] Access token bulundu: Array
+(
+    [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+    [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+    [user_id] => 1869404592729214976
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 07:54:58] Request origin: http://bullfnf.xyz
+[2025-02-18 07:54:58] User endpoint başladı
+[2025-02-18 07:54:58] Session durumu: Array
+(
+    [oauth_token] => LeYgaAAAAAABzTLrAAABlRfVpO4
+    [oauth_token_secret] => w8ywnSz9zgO6y68rDNYUBmeJsyKiJDJz
+    [access_token] => Array
+        (
+            [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+            [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+            [user_id] => 1869404592729214976
+            [screen_name] => MagicPengu
+        )
+
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 07:54:58] Access token bulundu: Array
+(
+    [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+    [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+    [user_id] => 1869404592729214976
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 07:54:58] Response: {"success":true,"username":"MagicPengu","name":"MagicPengu","profile_image_url":"","total_points":0,"hasLiked":false,"hasRetweeted":true}
+[2025-02-18 07:55:10] Request origin: http://bullfnf.xyz
+[2025-02-18 07:55:10] User endpoint başladı
+[2025-02-18 07:55:10] Session durumu: Array
+(
+    [oauth_token] => LeYgaAAAAAABzTLrAAABlRfVpO4
+    [oauth_token_secret] => w8ywnSz9zgO6y68rDNYUBmeJsyKiJDJz
+    [access_token] => Array
+        (
+            [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+            [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+            [user_id] => 1869404592729214976
+            [screen_name] => MagicPengu
+        )
+
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 07:55:10] Access token bulundu: Array
+(
+    [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+    [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+    [user_id] => 1869404592729214976
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 07:55:10] Response: {"success":true,"username":"MagicPengu","name":"MagicPengu","profile_image_url":"","total_points":0,"hasLiked":false,"hasRetweeted":true}
+[2025-02-18 07:55:10] Request origin: http://bullfnf.xyz
+[2025-02-18 07:55:10] User endpoint başladı
+[2025-02-18 07:55:10] Session durumu: Array
+(
+    [oauth_token] => LeYgaAAAAAABzTLrAAABlRfVpO4
+    [oauth_token_secret] => w8ywnSz9zgO6y68rDNYUBmeJsyKiJDJz
+    [access_token] => Array
+        (
+            [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+            [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+            [user_id] => 1869404592729214976
+            [screen_name] => MagicPengu
+        )
+
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 07:55:10] Access token bulundu: Array
+(
+    [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+    [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+    [user_id] => 1869404592729214976
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 07:55:10] Response: {"success":true,"username":"MagicPengu","name":"MagicPengu","profile_image_url":"","total_points":0,"hasLiked":false,"hasRetweeted":true}
+[2025-02-18 07:55:17] Received input: Array
+(
+    [tweet_id] => 1890412839837344208
+    [action] => like
+)
+
+[2025-02-18 07:55:17] Processing like for tweet 1890412839837344208 by user MagicPengu
+[2025-02-18 07:55:17] Twitter API credentials:
+[2025-02-18 07:55:17] Client ID: BpCfuQEWqkqBTnuTscxaKy4aM
+[2025-02-18 07:55:17] Access Token: 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+[2025-02-18 07:55:17] Attempting to like tweet
+[2025-02-18 07:55:17] Twitter API endpoint: users/1869404592729214976/likes
+[2025-02-18 07:55:18] Twitter API response: stdClass Object
+(
+    [title] => Too Many Requests
+    [detail] => Too Many Requests
+    [type] => about:blank
+    [status] => 429
+)
+
+[2025-02-18 07:55:18] HTTP Code: 429
+[2025-02-18 07:55:18] Rate limit error encountered
+[2025-02-18 07:55:19] Received input: Array
+(
+    [tweet_id] => 1890412839837344208
+    [action] => retweet
+)
+
+[2025-02-18 07:55:19] Processing retweet for tweet 1890412839837344208 by user MagicPengu
+[2025-02-18 07:55:19] User already interacted with this tweet
+[2025-02-18 07:55:32] Request origin: http://localhost
+[2025-02-18 07:55:32] User endpoint başladı
+[2025-02-18 07:55:32] Session durumu: Array
+(
+)
+
+[2025-02-18 07:55:32] Session'da access token yok
+[2025-02-18 07:55:32] Request origin: http://localhost
+[2025-02-18 07:55:32] User endpoint başladı
+[2025-02-18 07:55:32] Session durumu: Array
+(
+)
+
+[2025-02-18 07:55:32] Session'da access token yok
+[2025-02-18 07:56:29] Request origin: http://bullfnf.xyz
+[2025-02-18 07:56:29] User endpoint başladı
+[2025-02-18 07:56:29] Session durumu: Array
+(
+    [oauth_token] => LeYgaAAAAAABzTLrAAABlRfVpO4
+    [oauth_token_secret] => w8ywnSz9zgO6y68rDNYUBmeJsyKiJDJz
+    [access_token] => Array
+        (
+            [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+            [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+            [user_id] => 1869404592729214976
+            [screen_name] => MagicPengu
+        )
+
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 07:56:29] Access token bulundu: Array
+(
+    [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+    [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+    [user_id] => 1869404592729214976
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 07:56:29] Response: {"success":true,"username":"MagicPengu","name":"MagicPengu","profile_image_url":"","total_points":2000,"hasLiked":false,"hasRetweeted":true}
+[2025-02-18 07:56:29] Request origin: http://bullfnf.xyz
+[2025-02-18 07:56:29] User endpoint başladı
+[2025-02-18 07:56:29] Session durumu: Array
+(
+    [oauth_token] => LeYgaAAAAAABzTLrAAABlRfVpO4
+    [oauth_token_secret] => w8ywnSz9zgO6y68rDNYUBmeJsyKiJDJz
+    [access_token] => Array
+        (
+            [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+            [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+            [user_id] => 1869404592729214976
+            [screen_name] => MagicPengu
+        )
+
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 07:56:29] Access token bulundu: Array
+(
+    [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+    [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+    [user_id] => 1869404592729214976
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 07:56:29] Response: {"success":true,"username":"MagicPengu","name":"MagicPengu","profile_image_url":"","total_points":2000,"hasLiked":false,"hasRetweeted":true}
+[2025-02-18 10:06:40] Request origin: http://bullfnf.xyz
+[2025-02-18 10:06:40] User endpoint başladı
+[2025-02-18 10:06:40] Session durumu: Array
+(
+    [oauth_token] => _x011QAAAAABzTLrAAABlRg-xf8
+    [oauth_token_secret] => ojilgRiT8qhCBDJlCRnjBMfGnrJ8vApz
+)
+
+[2025-02-18 10:06:40] Session'da access token yok
+[2025-02-18 10:06:40] Request origin: http://bullfnf.xyz
+[2025-02-18 10:06:40] User endpoint başladı
+[2025-02-18 10:06:40] Session durumu: Array
+(
+    [oauth_token] => _x011QAAAAABzTLrAAABlRg-xf8
+    [oauth_token_secret] => ojilgRiT8qhCBDJlCRnjBMfGnrJ8vApz
+)
+
+[2025-02-18 10:06:40] Session'da access token yok
+[2025-02-18 10:06:41] Request origin: 
+[2025-02-18 10:06:41] Twitter auth başlatılıyor...
+[2025-02-18 10:06:41] Session öncesi: Array
+(
+    [oauth_token] => _x011QAAAAABzTLrAAABlRg-xf8
+    [oauth_token_secret] => ojilgRiT8qhCBDJlCRnjBMfGnrJ8vApz
+)
+
+[2025-02-18 10:06:41] OAuth nesnesi oluşturuldu
+[2025-02-18 10:06:42] HATA: {"errors":[{"code":415,"message":"Callback URL not approved for this client application. Approved callback URLs can be adjusted in your application settings"}]}
+[2025-02-18 10:06:42] Stack trace: #0 C:\xampp\htdocs\bull-airdrop\api\twitter-auth.php(73): Abraham\TwitterOAuth\TwitterOAuth->oauth('oauth/request_t...', Array)
+#1 {main}
+[2025-02-18 10:08:57] Request origin: http://bullfnf.xyz
+[2025-02-18 10:08:57] User endpoint başladı
+[2025-02-18 10:08:57] Session durumu: Array
+(
+)
+
+[2025-02-18 10:08:57] Session'da access token yok
+[2025-02-18 10:08:57] Request origin: http://bullfnf.xyz
+[2025-02-18 10:08:57] User endpoint başladı
+[2025-02-18 10:08:57] Session durumu: Array
+(
+)
+
+[2025-02-18 10:08:57] Session'da access token yok
+[2025-02-18 10:08:58] Request origin: 
+[2025-02-18 10:08:58] Twitter auth başlatılıyor...
+[2025-02-18 10:08:58] Session öncesi: Array
+(
+)
+
+[2025-02-18 10:08:58] OAuth nesnesi oluşturuldu
+[2025-02-18 10:08:59] Request token alındı: Array
+(
+    [oauth_token] => WxIbpwAAAAABzTLrAAABlRhRV1k
+    [oauth_token_secret] => hOwAaDu9ZmL2nAxtUqcKCddXQe2dRhFq
+    [oauth_callback_confirmed] => true
+)
+
+[2025-02-18 10:08:59] Session güncellendi: Array
+(
+    [oauth_token] => WxIbpwAAAAABzTLrAAABlRhRV1k
+    [oauth_token_secret] => hOwAaDu9ZmL2nAxtUqcKCddXQe2dRhFq
+)
+
+[2025-02-18 10:08:59] Auth URL oluşturuldu: https://api.twitter.com/oauth/authorize?oauth_token=WxIbpwAAAAABzTLrAAABlRhRV1k
+[2025-02-18 10:18:10] Request origin: http://bullfnf.xyz
+[2025-02-18 10:18:10] User endpoint başladı
+[2025-02-18 10:18:10] Session durumu: Array
+(
+)
+
+[2025-02-18 10:18:10] Session'da access token yok
+[2025-02-18 10:18:11] Request origin: http://bullfnf.xyz
+[2025-02-18 10:18:11] User endpoint başladı
+[2025-02-18 10:18:11] Session durumu: Array
+(
+)
+
+[2025-02-18 10:18:11] Session'da access token yok
+[2025-02-18 10:18:12] Request origin: 
+[2025-02-18 10:18:12] Twitter auth başlatılıyor...
+[2025-02-18 10:18:12] Session öncesi: Array
+(
+)
+
+[2025-02-18 10:18:12] OAuth nesnesi oluşturuldu
+[2025-02-18 10:18:13] Request token alındı: Array
+(
+    [oauth_token] => Mi66BgAAAAABzTLrAAABlRhZzms
+    [oauth_token_secret] => 6dXoOdlkKX3Qj4PYAOBaCdMVSISCXhF3
+    [oauth_callback_confirmed] => true
+)
+
+[2025-02-18 10:18:13] Session güncellendi: Array
+(
+    [oauth_token] => Mi66BgAAAAABzTLrAAABlRhZzms
+    [oauth_token_secret] => 6dXoOdlkKX3Qj4PYAOBaCdMVSISCXhF3
+)
+
+[2025-02-18 10:18:13] Auth URL oluşturuldu: https://api.twitter.com/oauth/authorize?oauth_token=Mi66BgAAAAABzTLrAAABlRhZzms
+[2025-02-18 10:18:17] Request origin: 
+[2025-02-18 10:18:17] Callback başladı
+[2025-02-18 10:18:17] Request: Array
+(
+    [oauth_token] => Mi66BgAAAAABzTLrAAABlRhZzms
+    [oauth_verifier] => zeuJXSeMp7HyD52N2hmaqDlP9uvSThak
+)
+
+[2025-02-18 10:18:17] Session: Array
+(
+    [oauth_token] => Mi66BgAAAAABzTLrAAABlRhZzms
+    [oauth_token_secret] => 6dXoOdlkKX3Qj4PYAOBaCdMVSISCXhF3
+)
+
+[2025-02-18 10:18:17] OAuth token ve verifier mevcut
+[2025-02-18 10:18:17] Request token: Array
+(
+    [oauth_token] => Mi66BgAAAAABzTLrAAABlRhZzms
+    [oauth_token_secret] => 6dXoOdlkKX3Qj4PYAOBaCdMVSISCXhF3
+)
+
+[2025-02-18 10:18:17] Access token alınıyor...
+[2025-02-18 10:18:18] Access token alındı: Array
+(
+    [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+    [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+    [user_id] => 1869404592729214976
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 10:18:18] Kullanıcı veritabanına kaydedildi
+[2025-02-18 10:18:18] Final session: Array
+(
+    [oauth_token] => Mi66BgAAAAABzTLrAAABlRhZzms
+    [oauth_token_secret] => 6dXoOdlkKX3Qj4PYAOBaCdMVSISCXhF3
+    [access_token] => Array
+        (
+            [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+            [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+            [user_id] => 1869404592729214976
+            [screen_name] => MagicPengu
+        )
+
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 10:18:18] Callback tamamlandı - başarılı
+[2025-02-18 10:18:18] Request origin: http://bullfnf.xyz
+[2025-02-18 10:18:18] User endpoint başladı
+[2025-02-18 10:18:18] Session durumu: Array
+(
+    [oauth_token] => Mi66BgAAAAABzTLrAAABlRhZzms
+    [oauth_token_secret] => 6dXoOdlkKX3Qj4PYAOBaCdMVSISCXhF3
+    [access_token] => Array
+        (
+            [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+            [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+            [user_id] => 1869404592729214976
+            [screen_name] => MagicPengu
+        )
+
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 10:18:18] Access token bulundu: Array
+(
+    [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+    [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+    [user_id] => 1869404592729214976
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 10:18:18] Response: {"success":true,"username":"MagicPengu","name":"MagicPengu","profile_image_url":"","total_points":2000,"hasLiked":false,"hasRetweeted":true}
+[2025-02-18 10:18:21] Logout starting...
+[2025-02-18 10:18:21] Session about to clean: Array
+(
+    [oauth_token] => Mi66BgAAAAABzTLrAAABlRhZzms
+    [oauth_token_secret] => 6dXoOdlkKX3Qj4PYAOBaCdMVSISCXhF3
+    [access_token] => Array
+        (
+            [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+            [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+            [user_id] => 1869404592729214976
+            [screen_name] => MagicPengu
+        )
+
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 10:18:21] Session cleaned successfully
+[2025-02-18 10:18:22] Request origin: 
+[2025-02-18 10:18:22] Twitter auth başlatılıyor...
+[2025-02-18 10:18:22] Session öncesi: Array
+(
+)
+
+[2025-02-18 10:18:22] OAuth nesnesi oluşturuldu
+[2025-02-18 10:18:23] Request token alındı: Array
+(
+    [oauth_token] => 8WeLwAAAAAABzTLrAAABlRhZ8zQ
+    [oauth_token_secret] => rKFjp2kYzcQnGlguwdzIUfQWhgJEWvAF
+    [oauth_callback_confirmed] => true
+)
+
+[2025-02-18 10:18:23] Session güncellendi: Array
+(
+    [oauth_token] => 8WeLwAAAAAABzTLrAAABlRhZ8zQ
+    [oauth_token_secret] => rKFjp2kYzcQnGlguwdzIUfQWhgJEWvAF
+)
+
+[2025-02-18 10:18:23] Auth URL oluşturuldu: https://api.twitter.com/oauth/authorize?oauth_token=8WeLwAAAAAABzTLrAAABlRhZ8zQ
+[2025-02-18 10:18:26] Request origin: 
+[2025-02-18 10:18:26] Callback başladı
+[2025-02-18 10:18:26] Request: Array
+(
+    [oauth_token] => 8WeLwAAAAAABzTLrAAABlRhZ8zQ
+    [oauth_verifier] => snxFzHyvTAF64g3nr0iyIgKdOI1xMY5z
+)
+
+[2025-02-18 10:18:26] Session: Array
+(
+    [oauth_token] => 8WeLwAAAAAABzTLrAAABlRhZ8zQ
+    [oauth_token_secret] => rKFjp2kYzcQnGlguwdzIUfQWhgJEWvAF
+)
+
+[2025-02-18 10:18:26] OAuth token ve verifier mevcut
+[2025-02-18 10:18:26] Request token: Array
+(
+    [oauth_token] => 8WeLwAAAAAABzTLrAAABlRhZ8zQ
+    [oauth_token_secret] => rKFjp2kYzcQnGlguwdzIUfQWhgJEWvAF
+)
+
+[2025-02-18 10:18:26] Access token alınıyor...
+[2025-02-18 10:18:28] Access token alındı: Array
+(
+    [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+    [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+    [user_id] => 1869404592729214976
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 10:18:28] Kullanıcı veritabanına kaydedildi
+[2025-02-18 10:18:28] Final session: Array
+(
+    [oauth_token] => 8WeLwAAAAAABzTLrAAABlRhZ8zQ
+    [oauth_token_secret] => rKFjp2kYzcQnGlguwdzIUfQWhgJEWvAF
+    [access_token] => Array
+        (
+            [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+            [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+            [user_id] => 1869404592729214976
+            [screen_name] => MagicPengu
+        )
+
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 10:18:28] Callback tamamlandı - başarılı
+[2025-02-18 10:18:28] Request origin: http://bullfnf.xyz
+[2025-02-18 10:18:28] User endpoint başladı
+[2025-02-18 10:18:28] Session durumu: Array
+(
+    [oauth_token] => 8WeLwAAAAAABzTLrAAABlRhZ8zQ
+    [oauth_token_secret] => rKFjp2kYzcQnGlguwdzIUfQWhgJEWvAF
+    [access_token] => Array
+        (
+            [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+            [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+            [user_id] => 1869404592729214976
+            [screen_name] => MagicPengu
+        )
+
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 10:18:28] Access token bulundu: Array
+(
+    [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+    [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+    [user_id] => 1869404592729214976
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 10:18:28] Response: {"success":true,"username":"MagicPengu","name":"MagicPengu","profile_image_url":"","total_points":2000,"hasLiked":false,"hasRetweeted":true}
+[2025-02-18 10:18:31] Request origin: http://bullfnf.xyz
+[2025-02-18 10:18:31] User endpoint başladı
+[2025-02-18 10:18:31] Session durumu: Array
+(
+    [oauth_token] => 8WeLwAAAAAABzTLrAAABlRhZ8zQ
+    [oauth_token_secret] => rKFjp2kYzcQnGlguwdzIUfQWhgJEWvAF
+    [access_token] => Array
+        (
+            [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+            [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+            [user_id] => 1869404592729214976
+            [screen_name] => MagicPengu
+        )
+
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 10:18:31] Access token bulundu: Array
+(
+    [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+    [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+    [user_id] => 1869404592729214976
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 10:18:31] Response: {"success":true,"username":"MagicPengu","name":"MagicPengu","profile_image_url":"","total_points":2000,"hasLiked":false,"hasRetweeted":true}
+[2025-02-18 10:18:31] Request origin: http://bullfnf.xyz
+[2025-02-18 10:18:31] User endpoint başladı
+[2025-02-18 10:18:31] Session durumu: Array
+(
+    [oauth_token] => 8WeLwAAAAAABzTLrAAABlRhZ8zQ
+    [oauth_token_secret] => rKFjp2kYzcQnGlguwdzIUfQWhgJEWvAF
+    [access_token] => Array
+        (
+            [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+            [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+            [user_id] => 1869404592729214976
+            [screen_name] => MagicPengu
+        )
+
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 10:18:31] Access token bulundu: Array
+(
+    [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+    [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+    [user_id] => 1869404592729214976
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 10:18:31] Response: {"success":true,"username":"MagicPengu","name":"MagicPengu","profile_image_url":"","total_points":2000,"hasLiked":false,"hasRetweeted":true}
+[2025-02-18 10:18:32] Logout starting...
+[2025-02-18 10:18:32] Session about to clean: Array
+(
+    [oauth_token] => 8WeLwAAAAAABzTLrAAABlRhZ8zQ
+    [oauth_token_secret] => rKFjp2kYzcQnGlguwdzIUfQWhgJEWvAF
+    [access_token] => Array
+        (
+            [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+            [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+            [user_id] => 1869404592729214976
+            [screen_name] => MagicPengu
+        )
+
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 10:18:32] Session cleaned successfully
+[2025-02-18 10:18:36] Request origin: http://bullfnf.xyz
+[2025-02-18 10:18:36] User endpoint başladı
+[2025-02-18 10:18:36] Session durumu: Array
+(
+)
+
+[2025-02-18 10:18:36] Session'da access token yok
+[2025-02-18 10:18:37] Request origin: http://bullfnf.xyz
+[2025-02-18 10:18:37] User endpoint başladı
+[2025-02-18 10:18:37] Session durumu: Array
+(
+)
+
+[2025-02-18 10:18:37] Session'da access token yok
+[2025-02-18 10:18:39] Request origin: 
+[2025-02-18 10:18:39] Twitter auth başlatılıyor...
+[2025-02-18 10:18:39] Session öncesi: Array
+(
+)
+
+[2025-02-18 10:18:39] OAuth nesnesi oluşturuldu
+[2025-02-18 10:18:40] Request token alındı: Array
+(
+    [oauth_token] => a1wtngAAAAABzTLrAAABlRhaN2A
+    [oauth_token_secret] => i0vlPHyk1GRNVoAYr3I0SnXImDqzaDSk
+    [oauth_callback_confirmed] => true
+)
+
+[2025-02-18 10:18:40] Session güncellendi: Array
+(
+    [oauth_token] => a1wtngAAAAABzTLrAAABlRhaN2A
+    [oauth_token_secret] => i0vlPHyk1GRNVoAYr3I0SnXImDqzaDSk
+)
+
+[2025-02-18 10:18:40] Auth URL oluşturuldu: https://api.twitter.com/oauth/authorize?oauth_token=a1wtngAAAAABzTLrAAABlRhaN2A
+[2025-02-18 10:18:43] Request origin: 
+[2025-02-18 10:18:43] Callback başladı
+[2025-02-18 10:18:43] Request: Array
+(
+    [oauth_token] => a1wtngAAAAABzTLrAAABlRhaN2A
+    [oauth_verifier] => tM9Tqpum03l3vBvL5dSnXx6Cms5oxweX
+)
+
+[2025-02-18 10:18:43] Session: Array
+(
+    [oauth_token] => a1wtngAAAAABzTLrAAABlRhaN2A
+    [oauth_token_secret] => i0vlPHyk1GRNVoAYr3I0SnXImDqzaDSk
+)
+
+[2025-02-18 10:18:43] OAuth token ve verifier mevcut
+[2025-02-18 10:18:43] Request token: Array
+(
+    [oauth_token] => a1wtngAAAAABzTLrAAABlRhaN2A
+    [oauth_token_secret] => i0vlPHyk1GRNVoAYr3I0SnXImDqzaDSk
+)
+
+[2025-02-18 10:18:43] Access token alınıyor...
+[2025-02-18 10:18:44] Access token alındı: Array
+(
+    [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+    [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+    [user_id] => 1869404592729214976
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 10:18:44] Kullanıcı veritabanına kaydedildi
+[2025-02-18 10:18:44] Final session: Array
+(
+    [oauth_token] => a1wtngAAAAABzTLrAAABlRhaN2A
+    [oauth_token_secret] => i0vlPHyk1GRNVoAYr3I0SnXImDqzaDSk
+    [access_token] => Array
+        (
+            [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+            [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+            [user_id] => 1869404592729214976
+            [screen_name] => MagicPengu
+        )
+
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 10:18:44] Callback tamamlandı - başarılı
+[2025-02-18 10:18:45] Request origin: http://bullfnf.xyz
+[2025-02-18 10:18:45] User endpoint başladı
+[2025-02-18 10:18:45] Session durumu: Array
+(
+    [oauth_token] => a1wtngAAAAABzTLrAAABlRhaN2A
+    [oauth_token_secret] => i0vlPHyk1GRNVoAYr3I0SnXImDqzaDSk
+    [access_token] => Array
+        (
+            [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+            [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+            [user_id] => 1869404592729214976
+            [screen_name] => MagicPengu
+        )
+
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 10:18:45] Access token bulundu: Array
+(
+    [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+    [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+    [user_id] => 1869404592729214976
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 10:18:45] Response: {"success":true,"username":"MagicPengu","name":"MagicPengu","profile_image_url":"","total_points":2000,"hasLiked":false,"hasRetweeted":true}
+[2025-02-18 10:18:57] Request origin: http://localhost
+[2025-02-18 10:18:57] User endpoint başladı
+[2025-02-18 10:18:57] Session durumu: Array
+(
+)
+
+[2025-02-18 10:18:57] Session'da access token yok
+[2025-02-18 10:18:58] Request origin: http://localhost
+[2025-02-18 10:18:58] User endpoint başladı
+[2025-02-18 10:18:58] Session durumu: Array
+(
+)
+
+[2025-02-18 10:18:58] Session'da access token yok
+[2025-02-18 10:19:06] Request origin: http://bullfnf.xyz
+[2025-02-18 10:19:06] User endpoint başladı
+[2025-02-18 10:19:06] Session durumu: Array
+(
+)
+
+[2025-02-18 10:19:06] Session'da access token yok
+[2025-02-18 10:19:06] Request origin: http://bullfnf.xyz
+[2025-02-18 10:19:06] User endpoint başladı
+[2025-02-18 10:19:06] Session durumu: Array
+(
+)
+
+[2025-02-18 10:19:06] Session'da access token yok
+[2025-02-18 10:19:07] Request origin: 
+[2025-02-18 10:19:07] Twitter auth başlatılıyor...
+[2025-02-18 10:19:07] Session öncesi: Array
+(
+)
+
+[2025-02-18 10:19:07] OAuth nesnesi oluşturuldu
+[2025-02-18 10:19:08] Request token alındı: Array
+(
+    [oauth_token] => Dsu8_gAAAAABzTLrAAABlRhao6o
+    [oauth_token_secret] => Ukh9i9oiDelhyBGWc2bGEHFDcWd4NzT1
+    [oauth_callback_confirmed] => true
+)
+
+[2025-02-18 10:19:08] Session güncellendi: Array
+(
+    [oauth_token] => Dsu8_gAAAAABzTLrAAABlRhao6o
+    [oauth_token_secret] => Ukh9i9oiDelhyBGWc2bGEHFDcWd4NzT1
+)
+
+[2025-02-18 10:19:08] Auth URL oluşturuldu: https://api.twitter.com/oauth/authorize?oauth_token=Dsu8_gAAAAABzTLrAAABlRhao6o
+[2025-02-18 10:19:40] Request origin: 
+[2025-02-18 10:19:40] Twitter auth başlatılıyor...
+[2025-02-18 10:19:40] Session öncesi: Array
+(
+    [oauth_token] => Dsu8_gAAAAABzTLrAAABlRhao6o
+    [oauth_token_secret] => Ukh9i9oiDelhyBGWc2bGEHFDcWd4NzT1
+)
+
+[2025-02-18 10:19:40] OAuth nesnesi oluşturuldu
+[2025-02-18 10:19:41] Request token alındı: Array
+(
+    [oauth_token] => ZHzi0QAAAAABzTLrAAABlRhbJBU
+    [oauth_token_secret] => QrR9z816geiqO1bAbTwdU9XHrsYpbpvG
+    [oauth_callback_confirmed] => true
+)
+
+[2025-02-18 10:19:41] Session güncellendi: Array
+(
+    [oauth_token] => ZHzi0QAAAAABzTLrAAABlRhbJBU
+    [oauth_token_secret] => QrR9z816geiqO1bAbTwdU9XHrsYpbpvG
+)
+
+[2025-02-18 10:19:41] Auth URL oluşturuldu: https://api.twitter.com/oauth/authorize?oauth_token=ZHzi0QAAAAABzTLrAAABlRhbJBU
+[2025-02-18 10:19:44] Request origin: 
+[2025-02-18 10:19:44] Callback başladı
+[2025-02-18 10:19:44] Request: Array
+(
+    [oauth_token] => ZHzi0QAAAAABzTLrAAABlRhbJBU
+    [oauth_verifier] => 9K22s4L1SP2TGxvF2o7RfQ2VHWRWUluT
+)
+
+[2025-02-18 10:19:44] Session: Array
+(
+    [oauth_token] => ZHzi0QAAAAABzTLrAAABlRhbJBU
+    [oauth_token_secret] => QrR9z816geiqO1bAbTwdU9XHrsYpbpvG
+)
+
+[2025-02-18 10:19:44] OAuth token ve verifier mevcut
+[2025-02-18 10:19:44] Request token: Array
+(
+    [oauth_token] => ZHzi0QAAAAABzTLrAAABlRhbJBU
+    [oauth_token_secret] => QrR9z816geiqO1bAbTwdU9XHrsYpbpvG
+)
+
+[2025-02-18 10:19:44] Access token alınıyor...
+[2025-02-18 10:19:45] Access token alındı: Array
+(
+    [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+    [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+    [user_id] => 1869404592729214976
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 10:19:45] Kullanıcı veritabanına kaydedildi
+[2025-02-18 10:19:45] Final session: Array
+(
+    [oauth_token] => ZHzi0QAAAAABzTLrAAABlRhbJBU
+    [oauth_token_secret] => QrR9z816geiqO1bAbTwdU9XHrsYpbpvG
+    [access_token] => Array
+        (
+            [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+            [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+            [user_id] => 1869404592729214976
+            [screen_name] => MagicPengu
+        )
+
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 10:19:45] Callback tamamlandı - başarılı
+[2025-02-18 10:19:45] Request origin: http://bullfnf.xyz
+[2025-02-18 10:19:45] User endpoint başladı
+[2025-02-18 10:19:45] Session durumu: Array
+(
+    [oauth_token] => ZHzi0QAAAAABzTLrAAABlRhbJBU
+    [oauth_token_secret] => QrR9z816geiqO1bAbTwdU9XHrsYpbpvG
+    [access_token] => Array
+        (
+            [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+            [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+            [user_id] => 1869404592729214976
+            [screen_name] => MagicPengu
+        )
+
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 10:19:45] Access token bulundu: Array
+(
+    [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+    [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+    [user_id] => 1869404592729214976
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 10:19:45] Response: {"success":true,"username":"MagicPengu","name":"MagicPengu","profile_image_url":"","total_points":2000,"hasLiked":false,"hasRetweeted":true}
+[2025-02-18 10:20:00] Received input: Array
+(
+    [tweet_id] => 1890412839837344208
+    [action] => retweet
+)
+
+[2025-02-18 10:20:00] Processing retweet for tweet 1890412839837344208 by user MagicPengu
+[2025-02-18 10:20:00] User already interacted with this tweet
+[2025-02-18 10:20:03] Received input: Array
+(
+    [tweet_id] => 1890412839837344208
+    [action] => like
+)
+
+[2025-02-18 10:20:03] Processing like for tweet 1890412839837344208 by user MagicPengu
+[2025-02-18 10:20:03] Twitter API credentials:
+[2025-02-18 10:20:03] Client ID: BpCfuQEWqkqBTnuTscxaKy4aM
+[2025-02-18 10:20:03] Access Token: 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+[2025-02-18 10:20:03] Attempting to like tweet
+[2025-02-18 10:20:03] Twitter API endpoint: users/1869404592729214976/likes
+[2025-02-18 10:20:03] Twitter API response: stdClass Object
+(
+    [title] => Too Many Requests
+    [detail] => Too Many Requests
+    [type] => about:blank
+    [status] => 429
+)
+
+[2025-02-18 10:20:03] HTTP Code: 429
+[2025-02-18 10:20:03] Rate limit error encountered
+[2025-02-18 10:20:15] Request origin: http://bullfnf.xyz
+[2025-02-18 10:20:15] User endpoint başladı
+[2025-02-18 10:20:15] Session durumu: Array
+(
+    [oauth_token] => ZHzi0QAAAAABzTLrAAABlRhbJBU
+    [oauth_token_secret] => QrR9z816geiqO1bAbTwdU9XHrsYpbpvG
+    [access_token] => Array
+        (
+            [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+            [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+            [user_id] => 1869404592729214976
+            [screen_name] => MagicPengu
+        )
+
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 10:20:15] Access token bulundu: Array
+(
+    [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+    [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+    [user_id] => 1869404592729214976
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 10:20:15] Response: {"success":true,"username":"MagicPengu","name":"MagicPengu","profile_image_url":"","total_points":2000,"hasLiked":false,"hasRetweeted":true}
+[2025-02-18 10:20:15] Request origin: http://bullfnf.xyz
+[2025-02-18 10:20:15] User endpoint başladı
+[2025-02-18 10:20:15] Session durumu: Array
+(
+    [oauth_token] => ZHzi0QAAAAABzTLrAAABlRhbJBU
+    [oauth_token_secret] => QrR9z816geiqO1bAbTwdU9XHrsYpbpvG
+    [access_token] => Array
+        (
+            [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+            [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+            [user_id] => 1869404592729214976
+            [screen_name] => MagicPengu
+        )
+
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 10:20:15] Access token bulundu: Array
+(
+    [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+    [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+    [user_id] => 1869404592729214976
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 10:20:15] Response: {"success":true,"username":"MagicPengu","name":"MagicPengu","profile_image_url":"","total_points":2000,"hasLiked":false,"hasRetweeted":true}
+[2025-02-18 10:20:29] Request origin: http://localhost
+[2025-02-18 10:20:29] User endpoint başladı
+[2025-02-18 10:20:29] Session durumu: Array
+(
+)
+
+[2025-02-18 10:20:29] Session'da access token yok
+[2025-02-18 10:20:29] Request origin: http://localhost
+[2025-02-18 10:20:29] User endpoint başladı
+[2025-02-18 10:20:29] Session durumu: Array
+(
+)
+
+[2025-02-18 10:20:29] Session'da access token yok
+[2025-02-18 10:21:46] Request origin: http://localhost
+[2025-02-18 10:21:46] User endpoint başladı
+[2025-02-18 10:21:46] Session durumu: Array
+(
+)
+
+[2025-02-18 10:21:46] Session'da access token yok
+[2025-02-18 10:21:46] Request origin: http://localhost
+[2025-02-18 10:21:46] User endpoint başladı
+[2025-02-18 10:21:46] Session durumu: Array
+(
+)
+
+[2025-02-18 10:21:46] Session'da access token yok
+[2025-02-18 10:22:46] Request origin: http://bullfnf.xyz
+[2025-02-18 10:22:46] User endpoint başladı
+[2025-02-18 10:22:46] Session durumu: Array
+(
+    [oauth_token] => ZHzi0QAAAAABzTLrAAABlRhbJBU
+    [oauth_token_secret] => QrR9z816geiqO1bAbTwdU9XHrsYpbpvG
+    [access_token] => Array
+        (
+            [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+            [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+            [user_id] => 1869404592729214976
+            [screen_name] => MagicPengu
+        )
+
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 10:22:46] Access token bulundu: Array
+(
+    [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+    [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+    [user_id] => 1869404592729214976
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 10:22:46] Response: {"success":true,"username":"MagicPengu","name":"MagicPengu","profile_image_url":"","total_points":4000,"hasLiked":false,"hasRetweeted":true}
+[2025-02-18 10:22:46] Request origin: http://bullfnf.xyz
+[2025-02-18 10:22:46] User endpoint başladı
+[2025-02-18 10:22:46] Session durumu: Array
+(
+    [oauth_token] => ZHzi0QAAAAABzTLrAAABlRhbJBU
+    [oauth_token_secret] => QrR9z816geiqO1bAbTwdU9XHrsYpbpvG
+    [access_token] => Array
+        (
+            [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+            [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+            [user_id] => 1869404592729214976
+            [screen_name] => MagicPengu
+        )
+
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 10:22:46] Access token bulundu: Array
+(
+    [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+    [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+    [user_id] => 1869404592729214976
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 10:22:46] Response: {"success":true,"username":"MagicPengu","name":"MagicPengu","profile_image_url":"","total_points":4000,"hasLiked":false,"hasRetweeted":true}
+[2025-02-18 10:26:28] Request origin: http://bullfnf.xyz
+[2025-02-18 10:26:28] User endpoint başladı
+[2025-02-18 10:26:28] Session durumu: Array
+(
+)
+
+[2025-02-18 10:26:28] Session'da access token yok
+[2025-02-18 10:26:28] Request origin: http://bullfnf.xyz
+[2025-02-18 10:26:28] User endpoint başladı
+[2025-02-18 10:26:28] Session durumu: Array
+(
+)
+
+[2025-02-18 10:26:28] Session'da access token yok
+[2025-02-18 10:26:33] Request origin: 
+[2025-02-18 10:26:33] Twitter auth başlatılıyor...
+[2025-02-18 10:26:33] Session öncesi: Array
+(
+)
+
+[2025-02-18 10:26:33] OAuth nesnesi oluşturuldu
+[2025-02-18 10:26:34] Request token alındı: Array
+(
+    [oauth_token] => RdA9aQAAAAABzTLrAAABlRhhdEw
+    [oauth_token_secret] => ToGsypR8PWuciTTwXXFBnUjhdklozUGq
+    [oauth_callback_confirmed] => true
+)
+
+[2025-02-18 10:26:34] Session güncellendi: Array
+(
+    [oauth_token] => RdA9aQAAAAABzTLrAAABlRhhdEw
+    [oauth_token_secret] => ToGsypR8PWuciTTwXXFBnUjhdklozUGq
+)
+
+[2025-02-18 10:26:34] Auth URL oluşturuldu: https://api.twitter.com/oauth/authorize?oauth_token=RdA9aQAAAAABzTLrAAABlRhhdEw
+[2025-02-18 10:32:01] Request origin: 
+[2025-02-18 10:32:01] Twitter auth başlatılıyor...
+[2025-02-18 10:32:01] Session öncesi: Array
+(
+    [oauth_token] => RdA9aQAAAAABzTLrAAABlRhhdEw
+    [oauth_token_secret] => ToGsypR8PWuciTTwXXFBnUjhdklozUGq
+)
+
+[2025-02-18 10:32:01] OAuth nesnesi oluşturuldu
+[2025-02-18 10:32:01] Request token alındı: Array
+(
+    [oauth_token] => 0aiFBgAAAAABzTLrAAABlRhmcVA
+    [oauth_token_secret] => rdV6IANAZJAWODjSalVVtCWpnwkM82cf
+    [oauth_callback_confirmed] => true
+)
+
+[2025-02-18 10:32:01] Session güncellendi: Array
+(
+    [oauth_token] => 0aiFBgAAAAABzTLrAAABlRhmcVA
+    [oauth_token_secret] => rdV6IANAZJAWODjSalVVtCWpnwkM82cf
+)
+
+[2025-02-18 10:32:01] Auth URL oluşturuldu: https://api.twitter.com/oauth/authorize?oauth_token=0aiFBgAAAAABzTLrAAABlRhmcVA
+[2025-02-18 10:32:05] Request origin: 
+[2025-02-18 10:32:05] Callback başladı
+[2025-02-18 10:32:05] Request: Array
+(
+    [oauth_token] => 0aiFBgAAAAABzTLrAAABlRhmcVA
+    [oauth_verifier] => rOTb8rYzN91BZL0n3KN5SwY8XLt1wfE8
+)
+
+[2025-02-18 10:32:05] Session: Array
+(
+    [oauth_token] => 0aiFBgAAAAABzTLrAAABlRhmcVA
+    [oauth_token_secret] => rdV6IANAZJAWODjSalVVtCWpnwkM82cf
+)
+
+[2025-02-18 10:32:05] OAuth token ve verifier mevcut
+[2025-02-18 10:32:05] Request token: Array
+(
+    [oauth_token] => 0aiFBgAAAAABzTLrAAABlRhmcVA
+    [oauth_token_secret] => rdV6IANAZJAWODjSalVVtCWpnwkM82cf
+)
+
+[2025-02-18 10:32:05] Access token alınıyor...
+[2025-02-18 10:32:07] Access token alındı: Array
+(
+    [oauth_token] => 1891781609721880576-qHyRcJo83B9hD2UoZcZP2XQ5mED4I3
+    [oauth_token_secret] => WQD7DF76XRPluWT6PhZ3vmXpDnWjTP8tOEwtzBs7qWqg8
+    [user_id] => 1891781609721880576
+    [screen_name] => solanalovedamn4
+)
+
+[2025-02-18 10:32:07] Kullanıcı veritabanına kaydedildi
+[2025-02-18 10:32:07] Final session: Array
+(
+    [oauth_token] => 0aiFBgAAAAABzTLrAAABlRhmcVA
+    [oauth_token_secret] => rdV6IANAZJAWODjSalVVtCWpnwkM82cf
+    [access_token] => Array
+        (
+            [oauth_token] => 1891781609721880576-qHyRcJo83B9hD2UoZcZP2XQ5mED4I3
+            [oauth_token_secret] => WQD7DF76XRPluWT6PhZ3vmXpDnWjTP8tOEwtzBs7qWqg8
+            [user_id] => 1891781609721880576
+            [screen_name] => solanalovedamn4
+        )
+
+    [screen_name] => solanalovedamn4
+)
+
+[2025-02-18 10:32:07] Callback tamamlandı - başarılı
+[2025-02-18 10:32:07] Request origin: http://bullfnf.xyz
+[2025-02-18 10:32:07] User endpoint başladı
+[2025-02-18 10:32:07] Session durumu: Array
+(
+    [oauth_token] => 0aiFBgAAAAABzTLrAAABlRhmcVA
+    [oauth_token_secret] => rdV6IANAZJAWODjSalVVtCWpnwkM82cf
+    [access_token] => Array
+        (
+            [oauth_token] => 1891781609721880576-qHyRcJo83B9hD2UoZcZP2XQ5mED4I3
+            [oauth_token_secret] => WQD7DF76XRPluWT6PhZ3vmXpDnWjTP8tOEwtzBs7qWqg8
+            [user_id] => 1891781609721880576
+            [screen_name] => solanalovedamn4
+        )
+
+    [screen_name] => solanalovedamn4
+)
+
+[2025-02-18 10:32:07] Access token bulundu: Array
+(
+    [oauth_token] => 1891781609721880576-qHyRcJo83B9hD2UoZcZP2XQ5mED4I3
+    [oauth_token_secret] => WQD7DF76XRPluWT6PhZ3vmXpDnWjTP8tOEwtzBs7qWqg8
+    [user_id] => 1891781609721880576
+    [screen_name] => solanalovedamn4
+)
+
+[2025-02-18 10:32:07] Response: {"success":true,"username":"solanalovedamn4","name":"solanalovedamn4","profile_image_url":"","total_points":0,"hasLiked":false,"hasRetweeted":false}
+[2025-02-18 10:32:10] Received input: Array
+(
+    [tweet_id] => 1890412839837344208
+    [action] => like
+)
+
+[2025-02-18 10:32:10] Processing like for tweet 1890412839837344208 by user solanalovedamn4
+[2025-02-18 10:32:10] Twitter API credentials:
+[2025-02-18 10:32:10] Client ID: BpCfuQEWqkqBTnuTscxaKy4aM
+[2025-02-18 10:32:10] Access Token: 1891781609721880576-qHyRcJo83B9hD2UoZcZP2XQ5mED4I3
+[2025-02-18 10:32:10] Attempting to like tweet
+[2025-02-18 10:32:10] Twitter API endpoint: users/1891781609721880576/likes
+[2025-02-18 10:32:11] Twitter API response: stdClass Object
+(
+    [data] => stdClass Object
+        (
+            [liked] => 1
+        )
+
+)
+
+[2025-02-18 10:32:11] HTTP Code: 200
+[2025-02-18 10:32:11] Interaction saved successfully
+[2025-02-18 10:32:11] Received input: Array
+(
+    [tweet_id] => 1890412839837344208
+    [action] => retweet
+)
+
+[2025-02-18 10:32:11] Processing retweet for tweet 1890412839837344208 by user solanalovedamn4
+[2025-02-18 10:32:11] Twitter API credentials:
+[2025-02-18 10:32:11] Client ID: BpCfuQEWqkqBTnuTscxaKy4aM
+[2025-02-18 10:32:11] Access Token: 1891781609721880576-qHyRcJo83B9hD2UoZcZP2XQ5mED4I3
+[2025-02-18 10:32:11] Attempting to retweet
+[2025-02-18 10:32:11] Twitter API endpoint: users/1891781609721880576/retweets
+[2025-02-18 10:32:12] Twitter API response: stdClass Object
+(
+    [data] => stdClass Object
+        (
+            [retweeted] => 1
+            [rest_id] => 1891782761477754984
+        )
+
+)
+
+[2025-02-18 10:32:12] HTTP Code: 200
+[2025-02-18 10:32:12] Interaction saved successfully
+[2025-02-18 10:44:26] Request origin: http://bullfnf.xyz
+[2025-02-18 10:44:26] User endpoint başladı
+[2025-02-18 10:44:26] Session durumu: Array
+(
+)
+
+[2025-02-18 10:44:26] Session'da access token yok
+[2025-02-18 10:44:27] Request origin: http://bullfnf.xyz
+[2025-02-18 10:44:27] User endpoint başladı
+[2025-02-18 10:44:27] Session durumu: Array
+(
+)
+
+[2025-02-18 10:44:27] Session'da access token yok
+[2025-02-18 11:03:25] Request origin: http://bullfnf.xyz
+[2025-02-18 11:03:25] User endpoint başladı
+[2025-02-18 11:03:25] Session durumu: Array
+(
+)
+
+[2025-02-18 11:03:25] Session'da access token yok
+[2025-02-18 11:03:25] Request origin: http://bullfnf.xyz
+[2025-02-18 11:03:25] User endpoint başladı
+[2025-02-18 11:03:25] Session durumu: Array
+(
+)
+
+[2025-02-18 11:03:25] Session'da access token yok
+[2025-02-18 11:03:34] Request origin: http://bullfnf.xyz
+[2025-02-18 11:03:34] User endpoint başladı
+[2025-02-18 11:03:34] Session durumu: Array
+(
+)
+
+[2025-02-18 11:03:34] Session'da access token yok
+[2025-02-18 11:03:34] Request origin: http://bullfnf.xyz
+[2025-02-18 11:03:34] User endpoint başladı
+[2025-02-18 11:03:34] Session durumu: Array
+(
+)
+
+[2025-02-18 11:03:34] Session'da access token yok
+[2025-02-18 11:03:36] Request origin: 
+[2025-02-18 11:03:36] Twitter auth başlatılıyor...
+[2025-02-18 11:03:36] Session öncesi: Array
+(
+)
+
+[2025-02-18 11:03:36] OAuth nesnesi oluşturuldu
+[2025-02-18 11:03:37] Request token alındı: Array
+(
+    [oauth_token] => 1KI5PwAAAAABzTLrAAABlRiDXbw
+    [oauth_token_secret] => SEqYtJVzzTNIairobFdLwhTe3NZxITGQ
+    [oauth_callback_confirmed] => true
+)
+
+[2025-02-18 11:03:37] Session güncellendi: Array
+(
+    [oauth_token] => 1KI5PwAAAAABzTLrAAABlRiDXbw
+    [oauth_token_secret] => SEqYtJVzzTNIairobFdLwhTe3NZxITGQ
+)
+
+[2025-02-18 11:03:37] Auth URL oluşturuldu: https://api.twitter.com/oauth/authorize?oauth_token=1KI5PwAAAAABzTLrAAABlRiDXbw
+[2025-02-18 11:03:41] Request origin: 
+[2025-02-18 11:03:41] Callback başladı
+[2025-02-18 11:03:41] Request: Array
+(
+    [oauth_token] => 1KI5PwAAAAABzTLrAAABlRiDXbw
+    [oauth_verifier] => HHUekCFndNCEqHgfBFFithN2ugEVqs5A
+)
+
+[2025-02-18 11:03:41] Session: Array
+(
+    [oauth_token] => 1KI5PwAAAAABzTLrAAABlRiDXbw
+    [oauth_token_secret] => SEqYtJVzzTNIairobFdLwhTe3NZxITGQ
+)
+
+[2025-02-18 11:03:41] OAuth token ve verifier mevcut
+[2025-02-18 11:03:41] Request token: Array
+(
+    [oauth_token] => 1KI5PwAAAAABzTLrAAABlRiDXbw
+    [oauth_token_secret] => SEqYtJVzzTNIairobFdLwhTe3NZxITGQ
+)
+
+[2025-02-18 11:03:41] Access token alınıyor...
+[2025-02-18 11:03:43] Access token alındı: Array
+(
+    [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+    [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+    [user_id] => 1869404592729214976
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 11:03:43] Kullanıcı veritabanına kaydedildi
+[2025-02-18 11:03:43] Final session: Array
+(
+    [oauth_token] => 1KI5PwAAAAABzTLrAAABlRiDXbw
+    [oauth_token_secret] => SEqYtJVzzTNIairobFdLwhTe3NZxITGQ
+    [access_token] => Array
+        (
+            [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+            [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+            [user_id] => 1869404592729214976
+            [screen_name] => MagicPengu
+        )
+
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 11:03:43] Callback tamamlandı - başarılı
+[2025-02-18 11:03:43] Request origin: http://bullfnf.xyz
+[2025-02-18 11:03:43] User endpoint başladı
+[2025-02-18 11:03:43] Session durumu: Array
+(
+    [oauth_token] => 1KI5PwAAAAABzTLrAAABlRiDXbw
+    [oauth_token_secret] => SEqYtJVzzTNIairobFdLwhTe3NZxITGQ
+    [access_token] => Array
+        (
+            [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+            [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+            [user_id] => 1869404592729214976
+            [screen_name] => MagicPengu
+        )
+
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 11:03:43] Access token bulundu: Array
+(
+    [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+    [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+    [user_id] => 1869404592729214976
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 11:03:43] Response: {"success":true,"username":"MagicPengu","name":"MagicPengu","profile_image_url":"","total_points":4000,"hasLiked":false,"hasRetweeted":true}
+[2025-02-18 11:03:51] Request origin: http://bullfnf.xyz
+[2025-02-18 11:03:51] User endpoint başladı
+[2025-02-18 11:03:51] Session durumu: Array
+(
+    [oauth_token] => 1KI5PwAAAAABzTLrAAABlRiDXbw
+    [oauth_token_secret] => SEqYtJVzzTNIairobFdLwhTe3NZxITGQ
+    [access_token] => Array
+        (
+            [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+            [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+            [user_id] => 1869404592729214976
+            [screen_name] => MagicPengu
+        )
+
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 11:03:51] Access token bulundu: Array
+(
+    [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+    [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+    [user_id] => 1869404592729214976
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 11:03:51] Response: {"success":true,"username":"MagicPengu","name":"MagicPengu","profile_image_url":"","total_points":4000,"hasLiked":false,"hasRetweeted":true}
+[2025-02-18 11:03:51] Request origin: http://bullfnf.xyz
+[2025-02-18 11:03:51] User endpoint başladı
+[2025-02-18 11:03:51] Session durumu: Array
+(
+    [oauth_token] => 1KI5PwAAAAABzTLrAAABlRiDXbw
+    [oauth_token_secret] => SEqYtJVzzTNIairobFdLwhTe3NZxITGQ
+    [access_token] => Array
+        (
+            [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+            [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+            [user_id] => 1869404592729214976
+            [screen_name] => MagicPengu
+        )
+
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 11:03:51] Access token bulundu: Array
+(
+    [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+    [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+    [user_id] => 1869404592729214976
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 11:03:51] Response: {"success":true,"username":"MagicPengu","name":"MagicPengu","profile_image_url":"","total_points":4000,"hasLiked":false,"hasRetweeted":true}
+[2025-02-18 11:10:38] Request origin: http://bullfnf.xyz
+[2025-02-18 11:10:38] User endpoint başladı
+[2025-02-18 11:10:38] Session durumu: Array
+(
+)
+
+[2025-02-18 11:10:38] Session'da access token yok
+[2025-02-18 11:10:38] Request origin: http://bullfnf.xyz
+[2025-02-18 11:10:38] User endpoint başladı
+[2025-02-18 11:10:38] Session durumu: Array
+(
+)
+
+[2025-02-18 11:10:38] Session'da access token yok
+[2025-02-18 11:11:33] Request origin: http://bullfnf.xyz
+[2025-02-18 11:11:33] User endpoint başladı
+[2025-02-18 11:11:33] Session durumu: Array
+(
+)
+
+[2025-02-18 11:11:33] Session'da access token yok
+[2025-02-18 11:11:33] Request origin: http://bullfnf.xyz
+[2025-02-18 11:11:34] User endpoint başladı
+[2025-02-18 11:11:34] Session durumu: Array
+(
+)
+
+[2025-02-18 11:11:34] Session'da access token yok
+[2025-02-18 11:13:51] Request origin: http://bullfnf.xyz
+[2025-02-18 11:13:51] User endpoint başladı
+[2025-02-18 11:13:51] Session durumu: Array
+(
+)
+
+[2025-02-18 11:13:51] Session'da access token yok
+[2025-02-18 11:13:52] Request origin: http://bullfnf.xyz
+[2025-02-18 11:13:52] User endpoint başladı
+[2025-02-18 11:13:52] Session durumu: Array
+(
+)
+
+[2025-02-18 11:13:52] Session'da access token yok
+[2025-02-18 11:13:52] Request origin: http://bullfnf.xyz
+[2025-02-18 11:13:52] User endpoint başladı
+[2025-02-18 11:13:52] Session durumu: Array
+(
+)
+
+[2025-02-18 11:13:52] Session'da access token yok
+[2025-02-18 11:13:52] Request origin: http://bullfnf.xyz
+[2025-02-18 11:13:52] User endpoint başladı
+[2025-02-18 11:13:52] Session durumu: Array
+(
+)
+
+[2025-02-18 11:13:52] Session'da access token yok
+[2025-02-18 11:31:58] Request origin: http://bullfnf.xyz
+[2025-02-18 11:31:58] User endpoint başladı
+[2025-02-18 11:31:58] Session durumu: Array
+(
+)
+
+[2025-02-18 11:31:58] Session'da access token yok
+[2025-02-18 11:31:59] Request origin: http://bullfnf.xyz
+[2025-02-18 11:31:59] User endpoint başladı
+[2025-02-18 11:31:59] Session durumu: Array
+(
+)
+
+[2025-02-18 11:31:59] Session'da access token yok
+[2025-02-18 11:32:01] Request origin: 
+[2025-02-18 11:32:01] Twitter auth başlatılıyor...
+[2025-02-18 11:32:01] Session öncesi: Array
+(
+)
+
+[2025-02-18 11:32:01] OAuth nesnesi oluşturuldu
+[2025-02-18 11:32:02] Request token alındı: Array
+(
+    [oauth_token] => DnGRwwAAAAABzTLrAAABlRidYqU
+    [oauth_token_secret] => 7xCVtD5uNPnJPfuPQNgbwaLC8vzibFq2
+    [oauth_callback_confirmed] => true
+)
+
+[2025-02-18 11:32:02] Session güncellendi: Array
+(
+    [oauth_token] => DnGRwwAAAAABzTLrAAABlRidYqU
+    [oauth_token_secret] => 7xCVtD5uNPnJPfuPQNgbwaLC8vzibFq2
+)
+
+[2025-02-18 11:32:02] Auth URL oluşturuldu: https://api.twitter.com/oauth/authorize?oauth_token=DnGRwwAAAAABzTLrAAABlRidYqU
+[2025-02-18 11:33:17] Request origin: 
+[2025-02-18 11:33:17] Twitter auth başlatılıyor...
+[2025-02-18 11:33:17] Session öncesi: Array
+(
+    [oauth_token] => DnGRwwAAAAABzTLrAAABlRidYqU
+    [oauth_token_secret] => 7xCVtD5uNPnJPfuPQNgbwaLC8vzibFq2
+)
+
+[2025-02-18 11:33:17] OAuth nesnesi oluşturuldu
+[2025-02-18 11:33:18] Request token alındı: Array
+(
+    [oauth_token] => NdFEwgAAAAABzTLrAAABlRieiOg
+    [oauth_token_secret] => elheXRigQtof4R80gJngbW3AZHo7PRHW
+    [oauth_callback_confirmed] => true
+)
+
+[2025-02-18 11:33:18] Session güncellendi: Array
+(
+    [oauth_token] => NdFEwgAAAAABzTLrAAABlRieiOg
+    [oauth_token_secret] => elheXRigQtof4R80gJngbW3AZHo7PRHW
+)
+
+[2025-02-18 11:33:18] Auth URL oluşturuldu: https://api.twitter.com/oauth/authorize?oauth_token=NdFEwgAAAAABzTLrAAABlRieiOg
+[2025-02-18 11:33:22] Request origin: 
+[2025-02-18 11:33:22] Callback başladı
+[2025-02-18 11:33:22] Request: Array
+(
+    [oauth_token] => NdFEwgAAAAABzTLrAAABlRieiOg
+    [oauth_verifier] => 6cfpZaOTg0zzzzY2jUw6tK65RA2SZrfP
+)
+
+[2025-02-18 11:33:22] Session: Array
+(
+    [oauth_token] => NdFEwgAAAAABzTLrAAABlRieiOg
+    [oauth_token_secret] => elheXRigQtof4R80gJngbW3AZHo7PRHW
+)
+
+[2025-02-18 11:33:22] OAuth token ve verifier mevcut
+[2025-02-18 11:33:22] Request token: Array
+(
+    [oauth_token] => NdFEwgAAAAABzTLrAAABlRieiOg
+    [oauth_token_secret] => elheXRigQtof4R80gJngbW3AZHo7PRHW
+)
+
+[2025-02-18 11:33:22] Access token alınıyor...
+[2025-02-18 11:33:24] Access token alındı: Array
+(
+    [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+    [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+    [user_id] => 1869404592729214976
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 11:33:24] Kullanıcı veritabanına kaydedildi
+[2025-02-18 11:33:24] Final session: Array
+(
+    [oauth_token] => NdFEwgAAAAABzTLrAAABlRieiOg
+    [oauth_token_secret] => elheXRigQtof4R80gJngbW3AZHo7PRHW
+    [access_token] => Array
+        (
+            [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+            [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+            [user_id] => 1869404592729214976
+            [screen_name] => MagicPengu
+        )
+
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 11:33:24] Callback tamamlandı - başarılı
+[2025-02-18 11:33:24] Request origin: http://bullfnf.xyz
+[2025-02-18 11:33:24] User endpoint başladı
+[2025-02-18 11:33:24] Session durumu: Array
+(
+    [oauth_token] => NdFEwgAAAAABzTLrAAABlRieiOg
+    [oauth_token_secret] => elheXRigQtof4R80gJngbW3AZHo7PRHW
+    [access_token] => Array
+        (
+            [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+            [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+            [user_id] => 1869404592729214976
+            [screen_name] => MagicPengu
+        )
+
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 11:33:24] Access token bulundu: Array
+(
+    [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+    [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+    [user_id] => 1869404592729214976
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 11:33:24] Response: {"success":true,"username":"MagicPengu","name":"MagicPengu","profile_image_url":"","total_points":4000,"hasLiked":false,"hasRetweeted":true}
+[2025-02-18 11:33:32] Request origin: http://bullfnf.xyz
+[2025-02-18 11:33:32] User endpoint başladı
+[2025-02-18 11:33:32] Session durumu: Array
+(
+    [oauth_token] => NdFEwgAAAAABzTLrAAABlRieiOg
+    [oauth_token_secret] => elheXRigQtof4R80gJngbW3AZHo7PRHW
+    [access_token] => Array
+        (
+            [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+            [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+            [user_id] => 1869404592729214976
+            [screen_name] => MagicPengu
+        )
+
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 11:33:32] Access token bulundu: Array
+(
+    [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+    [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+    [user_id] => 1869404592729214976
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 11:33:32] Response: {"success":true,"username":"MagicPengu","name":"MagicPengu","profile_image_url":"","total_points":4000,"hasLiked":false,"hasRetweeted":true}
+[2025-02-18 11:33:32] Request origin: http://bullfnf.xyz
+[2025-02-18 11:33:32] User endpoint başladı
+[2025-02-18 11:33:32] Session durumu: Array
+(
+    [oauth_token] => NdFEwgAAAAABzTLrAAABlRieiOg
+    [oauth_token_secret] => elheXRigQtof4R80gJngbW3AZHo7PRHW
+    [access_token] => Array
+        (
+            [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+            [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+            [user_id] => 1869404592729214976
+            [screen_name] => MagicPengu
+        )
+
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 11:33:32] Access token bulundu: Array
+(
+    [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+    [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+    [user_id] => 1869404592729214976
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 11:33:32] Response: {"success":true,"username":"MagicPengu","name":"MagicPengu","profile_image_url":"","total_points":4000,"hasLiked":false,"hasRetweeted":true}
+[2025-02-18 11:35:23] Request origin: http://bullfnf.xyz
+[2025-02-18 11:35:23] User endpoint başladı
+[2025-02-18 11:35:23] Session durumu: Array
+(
+)
+
+[2025-02-18 11:35:23] Session'da access token yok
+[2025-02-18 11:35:23] Request origin: http://bullfnf.xyz
+[2025-02-18 11:35:23] User endpoint başladı
+[2025-02-18 11:35:23] Session durumu: Array
+(
+)
+
+[2025-02-18 11:35:23] Session'da access token yok
+[2025-02-18 11:35:34] Request origin: http://bullfnf.xyz
+[2025-02-18 11:35:34] User endpoint başladı
+[2025-02-18 11:35:34] Session durumu: Array
+(
+)
+
+[2025-02-18 11:35:34] Session'da access token yok
+[2025-02-18 11:35:34] Request origin: http://bullfnf.xyz
+[2025-02-18 11:35:34] User endpoint başladı
+[2025-02-18 11:35:34] Session durumu: Array
+(
+)
+
+[2025-02-18 11:35:34] Session'da access token yok
+[2025-02-18 11:35:43] Request origin: http://bullfnf.xyz
+[2025-02-18 11:35:43] User endpoint başladı
+[2025-02-18 11:35:43] Session durumu: Array
+(
+    [oauth_token] => NdFEwgAAAAABzTLrAAABlRieiOg
+    [oauth_token_secret] => elheXRigQtof4R80gJngbW3AZHo7PRHW
+    [access_token] => Array
+        (
+            [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+            [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+            [user_id] => 1869404592729214976
+            [screen_name] => MagicPengu
+        )
+
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 11:35:43] Access token bulundu: Array
+(
+    [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+    [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+    [user_id] => 1869404592729214976
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 11:35:43] Response: {"success":true,"username":"MagicPengu","name":"MagicPengu","profile_image_url":"","total_points":4000,"hasLiked":false,"hasRetweeted":true}
+[2025-02-18 11:35:43] Request origin: http://bullfnf.xyz
+[2025-02-18 11:35:43] User endpoint başladı
+[2025-02-18 11:35:43] Session durumu: Array
+(
+    [oauth_token] => NdFEwgAAAAABzTLrAAABlRieiOg
+    [oauth_token_secret] => elheXRigQtof4R80gJngbW3AZHo7PRHW
+    [access_token] => Array
+        (
+            [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+            [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+            [user_id] => 1869404592729214976
+            [screen_name] => MagicPengu
+        )
+
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 11:35:43] Access token bulundu: Array
+(
+    [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+    [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+    [user_id] => 1869404592729214976
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 11:35:43] Response: {"success":true,"username":"MagicPengu","name":"MagicPengu","profile_image_url":"","total_points":4000,"hasLiked":false,"hasRetweeted":true}
+[2025-02-18 11:35:46] Request origin: http://bullfnf.xyz
+[2025-02-18 11:35:46] User endpoint başladı
+[2025-02-18 11:35:46] Session durumu: Array
+(
+    [oauth_token] => NdFEwgAAAAABzTLrAAABlRieiOg
+    [oauth_token_secret] => elheXRigQtof4R80gJngbW3AZHo7PRHW
+    [access_token] => Array
+        (
+            [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+            [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+            [user_id] => 1869404592729214976
+            [screen_name] => MagicPengu
+        )
+
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 11:35:46] Access token bulundu: Array
+(
+    [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+    [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+    [user_id] => 1869404592729214976
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 11:35:46] Response: {"success":true,"username":"MagicPengu","name":"MagicPengu","profile_image_url":"","total_points":4000,"hasLiked":false,"hasRetweeted":true}
+[2025-02-18 11:35:46] Request origin: http://bullfnf.xyz
+[2025-02-18 11:35:46] User endpoint başladı
+[2025-02-18 11:35:46] Session durumu: Array
+(
+    [oauth_token] => NdFEwgAAAAABzTLrAAABlRieiOg
+    [oauth_token_secret] => elheXRigQtof4R80gJngbW3AZHo7PRHW
+    [access_token] => Array
+        (
+            [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+            [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+            [user_id] => 1869404592729214976
+            [screen_name] => MagicPengu
+        )
+
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 11:35:46] Access token bulundu: Array
+(
+    [oauth_token] => 1869404592729214976-8bxBUcLcevpCPmyIMhXnsGo7B4T5cj
+    [oauth_token_secret] => DyhvHpjkSgtQ9bxPBSzR9pZODAwLOJXFloZkNU9niEOJG
+    [user_id] => 1869404592729214976
+    [screen_name] => MagicPengu
+)
+
+[2025-02-18 11:35:46] Response: {"success":true,"username":"MagicPengu","name":"MagicPengu","profile_image_url":"","total_points":4000,"hasLiked":false,"hasRetweeted":true}
+[2025-02-18 11:39:29] Request origin: http://bullfnf.xyz
+[2025-02-18 11:39:30] User endpoint başladı
+[2025-02-18 11:39:30] Session durumu: Array
+(
+)
+
+[2025-02-18 11:39:30] Session'da access token yok
+[2025-02-18 11:39:30] Request origin: http://bullfnf.xyz
+[2025-02-18 11:39:30] User endpoint başladı
+[2025-02-18 11:39:30] Session durumu: Array
+(
+)
+
+[2025-02-18 11:39:30] Session'da access token yok
+[2025-02-18 11:40:23] Request origin: http://bullfnf.xyz
+[2025-02-18 11:40:23] User endpoint başladı
+[2025-02-18 11:40:23] Session durumu: Array
+(
+)
+
+[2025-02-18 11:40:23] Session'da access token yok
+[2025-02-18 11:40:29] Request origin: http://bullfnf.xyz
+[2025-02-18 11:40:29] User endpoint başladı
+[2025-02-18 11:40:29] Session durumu: Array
+(
+)
+
+[2025-02-18 11:40:29] Session'da access token yok
+[2025-02-18 11:40:41] Request origin: http://bullfnf.xyz
+[2025-02-18 11:40:41] User endpoint başladı
+[2025-02-18 11:40:41] Session durumu: Array
+(
+)
+
+[2025-02-18 11:40:41] Session'da access token yok
+[2025-02-18 11:40:41] Request origin: http://bullfnf.xyz
+[2025-02-18 11:40:41] User endpoint başladı
+[2025-02-18 11:40:41] Session durumu: Array
+(
+)
+
+[2025-02-18 11:40:41] Session'da access token yok
+[2025-02-18 11:40:47] Request origin: 
+[2025-02-18 11:40:47] Twitter auth başlatılıyor...
+[2025-02-18 11:40:47] Session öncesi: Array
+(
+)
+
+[2025-02-18 11:40:47] OAuth nesnesi oluşturuldu
+[2025-02-18 11:40:47] Request token alındı: Array
+(
+    [oauth_token] => viaAIwAAAAABzTLrAAABlRilZg0
+    [oauth_token_secret] => w1HewJxFxnMhmwoOpbCVoJxNHznyReIv
+    [oauth_callback_confirmed] => true
+)
+
+[2025-02-18 11:40:47] Session güncellendi: Array
+(
+    [oauth_token] => viaAIwAAAAABzTLrAAABlRilZg0
+    [oauth_token_secret] => w1HewJxFxnMhmwoOpbCVoJxNHznyReIv
+)
+
+[2025-02-18 11:40:47] Auth URL oluşturuldu: https://api.twitter.com/oauth/authorize?oauth_token=viaAIwAAAAABzTLrAAABlRilZg0
+[2025-02-18 11:44:02] Request origin: http://bullfnf.xyz
+[2025-02-18 11:44:02] User endpoint başladı
+[2025-02-18 11:44:02] Session durumu: Array
+(
+)
+
+[2025-02-18 11:44:02] Session'da access token yok
+[2025-02-18 11:44:02] Request origin: http://bullfnf.xyz
+[2025-02-18 11:44:02] User endpoint başladı
+[2025-02-18 11:44:02] Session durumu: Array
+(
+)
+
+[2025-02-18 11:44:02] Session'da access token yok
